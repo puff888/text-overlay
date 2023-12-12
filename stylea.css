@@ -1,0 +1,22 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.cont {
+      position: relative;
+      text-align: center;
+}
+.txt {
+      position: absolute;
+      top: 50%;
+      left: 10%;
+      font-size: 24px;
+      font-weight: 600;
+      color: white;
+      transform: translate(-50%, -50%);
+}
+.cont img {
+      height: auto;
+      display: block;
+}
